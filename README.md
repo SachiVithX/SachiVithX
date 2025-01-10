@@ -7,8 +7,8 @@
 - 🧑‍🎓 I’m an Undergraduate at University of Westminster
 - 📫 How to reach me **sachinthasithu123@gmail.com**
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sachivithx)](https://git.io/streak-stats)
 
-  <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=sachivithx&theme=blueberry_duo" alt="sachivithx"/></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
