@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning **Flutter ,Spring Boot**
-- 🧑‍🎓 I’m an Undergraduate at IIT
+- 🧑‍🎓 I’m an Undergraduate at University of Westminster
 - 📫 How to reach me **sachinthasithu123@gmail.com**
 
 
